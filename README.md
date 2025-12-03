@@ -1,5 +1,3 @@
-![Image of two Blobfishes in a circle]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/dsteinel/imagededup/blob/main/imadededup-blobfish.png)
-
 # Simple Image Duplicate Finder
 
 A Node.js script to find and move duplicate images based on perceptual hashing.  
