@@ -1,4 +1,4 @@
-![Image of two Blobfishes in a circle](https://myoctocat.com/assets/images/base-octocat.svg)
+![Image of two Blobfishes in a circle]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/dsteinel/imagededup/blob/main/imadededup-blobfish.png))
 
 # Simple Image Duplicate Finder
 
