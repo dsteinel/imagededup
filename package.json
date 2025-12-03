@@ -1,0 +1,14 @@
+{
+  "name": "imagededeup",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "compare.js",
+  "scripts": {
+    "start": "node compare.js"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.3",
+    "fs-extra": "^11.3.2",
+    "image-hash": "^7.0.1"
+  }
+}

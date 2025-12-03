@@ -1,4 +1,4 @@
 duplicates
-frames
-video_list.txt
-test
+images
+node_modules
+package-lock.json
